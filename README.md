@@ -1,4 +1,4 @@
-# Welcome to My First Repository 👋
+
 
 Hi, I'm **Lamar** — currently learning **Full-Stack Web Development** and **AI Engineering**.  
 This repo marks the beginning of my GitHub journey 🚀
