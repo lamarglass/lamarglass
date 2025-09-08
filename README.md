@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to My First Repository 👋
 
-<!--
-**lamarglass/lamarglass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Lamar** — currently learning **Full-Stack Web Development** and **AI Engineering**.  
+This repo marks the beginning of my GitHub journey 🚀
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Learning: JavaScript, Python, Web Frameworks, and Machine Learning  
+- 💡 Interests: Scalable applications & intelligent systems  
+- 🎯 Goal: Becoming a skilled Full-Stack Developer and AI Engineer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What’s Next?
+I’ll be adding projects, experiments, and learning milestones here. Stay tuned!  
+
+---
+⭐ Feel free to follow me on my journey!
