@@ -1,15 +1,7 @@
+# 👋 Hi, I'm [Your Name]
 
-
-Hi, I'm **Lamar** — currently learning **Full-Stack Web Development** and **AI Engineering**.  
-This repo marks the beginning of my GitHub journey 🚀
-
-## About Me
-- 🌱 Learning: JavaScript, Python, Web Frameworks, and Machine Learning  
-- 💡 Interests: Scalable applications & intelligent systems  
-- 🎯 Goal: Becoming a skilled Full-Stack Developer and AI Engineer  
-
-## What’s Next?
-I’ll be adding projects, experiments, and learning milestones here. Stay tuned!  
+I’m a self-taught AI engineer passionate about exploring the possibilities of artificial intelligence and its real-world applications. My main focus is on machine learning, deep learning, and generative AI, and I enjoy experimenting with different tools and frameworks such as Python, PyTorch, and TensorFlow. I’m continuously learning and currently diving deeper into reinforcement learning, efficient fine-tuning of large language models, and building AI systems that can scale. My goal is to keep growing as an engineer, contribute to open-source, and share my journey as I build meaningful projects in the AI space.  
 
 ---
-⭐ Feel free to follow me on my journey!
+
+💡 _“Always building, always learning.”_
